@@ -1,10 +1,14 @@
 ### Merhaba 👋
 
-Ben Xale siber güvenlik, yazılım ve deface hakkında araştırmalar yapıyorum.
-İletişim için mail: xaledef@protonmail.com
+Merhaba, 2018 tarihinden beri web site deface , siber güvenlik ve yazılım ile ilgileniyorum. 2020 yılından beri Xale kod adını kullanıyorum.
 
-Şuana kadar wp revslider , wp advanced video , hplaser jet gibi bir çok yazılımda zafiyet bulup bunları sömürmek için exploitler kodladım ve bazılarını burda yayınladım.
+Şuana kadar WordPress Revslider , WordPress Advanced Video 1.0 , HP LaserJet Pro gibi bir çok yazılımda zafiyet bulup bunları sömürmek için exploitler kodladım ve bazılarını burda yayınladım.
 
-Yazdığım kodların hepsini yayınlamıyorum.
+Not ; Yazdığım kodların hepsini yayınlamıyorum.
 
-https://www.sakaryadanhaber.com/roportaj/8065898/golge-hacker-xale-ile-cok-ozel-reportaj
+İletişim & Sosyal Ağ ;
+xaledef@protonmail.com
+Instagram ; @xalesecurity
+YouTube ; Xale Security 
+
+i am "Turkish Defacer"
