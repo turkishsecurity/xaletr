@@ -8,3 +8,5 @@ Merhaba,
 Exploit ve eğitim seti satın almak için benimle iletişime geçin.
 
 İletişim ; xaledef@protonmail.com
+
+Python , PHP , SQL , C# , CSS , HTML , Bash
