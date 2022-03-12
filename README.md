@@ -1,7 +1,6 @@
-## XALE
-Cyber Security ~
+## Xale 
+Cyber Security & Web Application Security & Software
+Siber Güvenlik & Web Aplikasyonu Güvenliği & Yazılım
 
-Web Application Security & Network Security & Software
-
-Since 2019.
-xaledef@protonmail.com
+Since 2019 / Kuruluş 2019.
+İletişim / Contact ~ xaledef@protonmail.com
