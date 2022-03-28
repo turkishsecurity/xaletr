@@ -1,11 +1,6 @@
 ## Xale 
-Cyber Security & Web Application Security & Software
-
-Siber Güvenlik & Web Aplikasyonu Güvenliği & Yazılım
-
+Researchs about cyber security - web security in Turkey.
 
 <br>
 
-Since 2019 / Kuruluş 2019.
-
-İletişim / Contact ~ xaledef@protonmail.com
+Contact ; xaledef@protonmail.com
